@@ -15,3 +15,8 @@ Baa, baa, white sheep,
 have you any wool?
 yes sir, yes sir,
 three needles full.
+
+one to mend a jumper,
+one to mend a frock,
+and one for the little girl,
+with holes in her sock.
